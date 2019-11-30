@@ -1,2 +1,3 @@
 "# Guess-It" 
-android app game, which lets you guess what the number. Made using java
+android app game made with java.
+guess the correct hidden number
